@@ -2,7 +2,7 @@
 > *"She believed she could, so she did."* - R.S. Grey
 
 🎓 **Computer Science and Engineering Student** at [Universidade de Aveiro](https://www.ua.pt/)  
-🖥️  See my portfolio at [mariana-andrade.vercel.app](https://mariana-andrade.vercel.app/) (🚧 work in progress)  
+🖥️  See my portfolio at [mariana-andrade.vercel.app](https://mariana-andrade.vercel.app/)   
 📍 **Location:** Ovar, Aveiro, Portugal  
 
 ---
