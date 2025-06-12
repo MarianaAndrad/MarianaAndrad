@@ -3,7 +3,6 @@
 
 🎓 **Computer Science and Engineering Student** at [Universidade de Aveiro](https://www.ua.pt/)  
 📍 **Location:** Ovar, Aveiro, Portugal  
-💻 **Passionate about:** Software Development, Data Structures & Algorithms, Web Technologies
 
 ---
 
@@ -82,8 +81,11 @@ I see myself as **energetic and adaptable** - someone who brings enthusiasm to e
 *When I'm not coding, you'll find me exploring new music genres, hunting for rare coins, staying active through sports, experimenting with new recipes in the kitchen, discovering great films, or spending quality time with the people who matter most.*
 
 </div>
+
 ---
-<-- ## 🔥 Featured Projects
+
+<!--
+## 🔥 Featured Projects
 
 ### 🏗️ [Software Engineering Project](https://github.com/MarianaAndrad/lei-ies)
 - **Tech Stack:** Java
